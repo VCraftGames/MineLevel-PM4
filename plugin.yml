@@ -1,0 +1,14 @@
+name: MineLevel
+version: 1.0.0
+main: TungstenVn\MineLevel
+api: 4.0.0
+website: https://github.com/VCraftGames
+author: VCraftStudios
+commands:
+  mylv:
+    description: Cấp thẻ mùa của bạn / xem cấp người khác
+    permission: mylevel.command
+
+permissions:
+  mylevel.command:
+    default: true
